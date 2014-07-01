@@ -1,0 +1,16 @@
+/* line 1, style.css.scss */
+h1 {
+  font-size: 40px;
+  -webkit-mask-image: url(../img/sample-mask.png);
+}
+
+/* line 6, style.css.scss */
+body {
+  -webkit-font-smoothing: antialiased !important;
+}
+
+/* line 10, style.css.scss */
+article {
+  width: 33em;
+  margin: 4em auto;
+}
